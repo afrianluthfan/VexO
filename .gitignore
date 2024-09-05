@@ -1,0 +1,6 @@
+*.png
+*.jpg
+*.Identifier
+.idea
+.idea/*
+model_cakep.keras
